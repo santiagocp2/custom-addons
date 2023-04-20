@@ -266,7 +266,7 @@ msgstr "Plazo"
 #: model:ir.ui.menu,name:insurance_management_cybro.insurance_details_menu_action
 #: model:ir.ui.menu,name:insurance_management_cybro.insurance_management_menu_root
 msgid "Insurance"
-msgstr "Seguro"
+msgstr "Seguros"
 
 #. module: insurance_management_cybro
 #: model_terms:ir.ui.view,arch_db:insurance_management_cybro.insurance_details_view_form
