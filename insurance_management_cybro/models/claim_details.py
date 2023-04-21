@@ -49,6 +49,7 @@ class ClaimDetails(models.Model):
     invoice_id = fields.Many2one('account.move', string='Invoiced',
                                  readonly=True, copy=False)
     note_field = fields.Html(string='Comment')
+    contribute = fields.Boolean(string='Contributiva', default=False)
 
     @api.model
     def create(self, vals):
@@ -70,7 +71,7 @@ class ClaimDetails(models.Model):
                     'name': 'Invoice For Insurance Claim',
                     'quantity': 1,
                     'price_unit': self.amount,
-                    'account_id': 41,
+                    'account_id': 549,
                 })],
             })
             self.invoice_id = invoice_val
