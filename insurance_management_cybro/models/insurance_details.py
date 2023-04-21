@@ -51,6 +51,7 @@ class InsuranceDetails(models.Model):
         required=True, default='draft')
     hide_inv_button = fields.Boolean(copy=False)
     note_field = fields.Html(string='Comment')
+    contribute = fields.Boolean(string='Contributiva', default=False)
 
     def action_confirm_insurance(self):
         if self.amount > 0:
@@ -70,7 +71,7 @@ class InsuranceDetails(models.Model):
                 'name': 'Invoice For Insurance',
                 'quantity': 1,
                 'price_unit': self.amount,
-                'account_id': 41,
+                'account_id': 549,
             })],
         })
         self.invoice_ids = created_invoice

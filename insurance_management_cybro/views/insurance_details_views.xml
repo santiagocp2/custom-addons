@@ -26,6 +26,7 @@
                             <field name="partner_id"/>
                             <field name="policy_id"/>
                             <field name="employee_id"/>
+                            <field name="contribute"/>
                             <field name="commission_rate"/>
                             <field name="hide_inv_button" invisible="1"/>
                         </group>
