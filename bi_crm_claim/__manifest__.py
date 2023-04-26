@@ -14,7 +14,6 @@
     'data': [
         'security/ir.model.access.csv',
         'views/crm_claim_menu.xml',
-        'views/crm_claim_data.xml',
         'views/res_partner_view.xml',
     ],
     'installable': True,
