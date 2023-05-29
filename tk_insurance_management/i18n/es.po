@@ -1,0 +1,3209 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* tk_insurance_management
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-26 15:00+0000\n"
+"PO-Revision-Date: 2023-05-29 15:54-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__nominee_dob
+msgid " Date of Birth"
+msgstr " Fecha de Nacimiento"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__industry_specific_risks
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__industry_specific_risks
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__industry_specific_risks
+msgid " Industry-Specific Risks"
+msgstr " Riesgos específicos del sector"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__liability_service_tax
+msgid " Service Tax"
+msgstr " Impuesto sobre servicios"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                                Invoice:"
+msgstr ""
+"<br/>\n"
+"                                                Factura:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Age:"
+msgstr ""
+"<br/>\n"
+"                                            Edad:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Buying For:"
+msgstr ""
+"<br/>\n"
+"                                            Comprar para:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Commission Type:"
+msgstr ""
+"<br/>\n"
+"                                            Tipo de Comisión:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Commission:"
+msgstr ""
+"<br/>\n"
+"                                            Comisión:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Date of Birth:"
+msgstr ""
+"<br/>\n"
+"                                            Fecha de nacimiento:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Gender:"
+msgstr ""
+"<br/>\n"
+"                                            Género:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Insurance Policy Time Duration:"
+msgstr ""
+"<br/>\n"
+"                                            Periodo de duración de la póliza:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Insurance Policy:"
+msgstr ""
+"<br/>\n"
+"                                            Póliza seguro:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Phone:"
+msgstr ""
+"<br/>\n"
+"                                            Telefono:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Policy Amount:"
+msgstr ""
+"<br/>\n"
+"                                            Importe de la póliza:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Policy Category:"
+msgstr ""
+"<br/>\n"
+"                                            Categoría póliza:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Policy Term:"
+msgstr ""
+"<br/>\n"
+"                                            Términos de la póliza:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Policy/Certificate No:"
+msgstr ""
+"<br/>\n"
+"                                            Nº de póliza/certificado:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Previous Policy No:"
+msgstr ""
+"<br/>\n"
+"                                            Nº de póliza anterior:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Sub Category:"
+msgstr ""
+"<br/>\n"
+"                                            Sub categoría:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<br/>\n"
+"                                            Your Nominee is Your:"
+msgstr ""
+"<br/>\n"
+"                                            Relación con el beneficiario:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid ""
+"<span class=\"o_form_label o_td_label\" name=\"address_name\">\n"
+"                                                <strong>Address</strong>\n"
+"                                            </span>"
+msgstr ""
+"<span class=\"o_form_label o_td_label\" name=\"address_name\">\n"
+"                                                <strong>Dirección</strong>\n"
+"                                            </span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid ""
+"<span class=\"o_form_label o_td_label\" name=\"address_name\">\n"
+"                                    <strong>Address</strong>\n"
+"                                </span>"
+msgstr ""
+"<span class=\"o_form_label o_td_label\" name=\"address_name\">\n"
+"                                    <strong>Dirección</strong>\n"
+"                                </span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "<span class=\"o_stat_text\">Commission</span>"
+msgstr "<span class=\"o_stat_text\">Comisión</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_emi_view_form
+msgid "<span class=\"o_stat_text\">Invoice</span>"
+msgstr "<span class=\"o_stat_text\">Factura</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<span style=\"padding-left: 0.5rem;\">Death of the Insured</span>"
+msgstr "<span style=\"padding-left: 0.5rem;\">Defunción del asegurado</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<span style=\"padding-left: 0.5rem;\">Discounted Value in Policy</span>"
+msgstr ""
+"<span style=\"padding-left: 0.5rem;\">Valor descontado de la póliza</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<span style=\"padding-left: 0.5rem;\">Maturity of the Policy</span>"
+msgstr "<span style=\"padding-left: 0.5rem;\">Madurez de la póliza</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<span style=\"padding-left: 0.5rem;\">Other</span>"
+msgstr "<span style=\"padding-left: 0.5rem;\">Otro</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<span style=\"padding-left: 0.5rem;\">Paid up of Lapsed Policy</span>"
+msgstr ""
+"<span style=\"padding-left: 0.5rem;\">Pago de la póliza caducado</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<span style=\"padding-left: 0.5rem;\">Surrender of the Policy</span>"
+msgstr "<span style=\"padding-left: 0.5rem;\">Renuncia a la póliza</span>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid ""
+"<strong attrs=\"{'invisible': [('premium_type', '=', 'fixed')]}\">\n"
+"                                                              Monthly "
+"Instalments  \n"
+"                                                        </strong>"
+msgstr ""
+"<strong attrs=\"{'invisible': [('premium_type', '=', 'fixed')]}\">\n"
+"                                                              Pagos "
+"mensuales  \n"
+"                                                        </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+msgid ""
+"<strong attrs=\"{'invisible': [('premium_type', '=', 'fixed')]}\">  Monthly\n"
+"                                                Instalments  \n"
+"                                            </strong>"
+msgstr ""
+"<strong attrs=\"{'invisible': [('premium_type', '=', 'fixed')]}\">  Pagos \n"
+"                                                mensuales  \n"
+"                                            </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid ""
+"<strong>\n"
+"                                        Agent Details\n"
+"                                    </strong>"
+msgstr ""
+"<strong>\n"
+"                                        Datos del agente\n"
+"                                    </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid ""
+"<strong>\n"
+"                                        Insured Details\n"
+"                                    </strong>"
+msgstr ""
+"<strong>\n"
+"                                        Datos del asegurado\n"
+"                                    </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid ""
+"<strong>\n"
+"                                        Insurer Details\n"
+"                                    </strong>"
+msgstr ""
+"<strong>\n"
+"                                        Datos del asegurador\n"
+"                                    </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid ""
+"<strong>\n"
+"                                        Nominee Details\n"
+"                                    </strong>"
+msgstr ""
+"<strong>\n"
+"                                        Datos del beneficiario\n"
+"                                    </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<strong>Agent Details</strong>"
+msgstr "<strong>Datos del agente</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<strong>Agent Details</strong>\n"
+"                                            <br/>\n"
+"                                            Agent:"
+msgstr ""
+"<strong>Datos del agente</strong>\n"
+"                                            <br/>\n"
+"                                            Agente:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<strong>Claim Report</strong>"
+msgstr "<strong>Informe reclamación</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<strong>Insurance Policy Details</strong>\n"
+"                                            <br/>\n"
+"                                            Insurance Number:"
+msgstr ""
+"<strong>Datos del seguro</strong>\n"
+"                                            <br/>\n"
+"                                            Número de seguro:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "<strong>Insurance Report</strong>"
+msgstr "<strong>Informe seguro</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "<strong>Insurance Time Duration</strong>"
+msgstr "<strong>Duración del seguro</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<strong>Insured Details</strong>\n"
+"                                            <br/>\n"
+"                                            Insured:"
+msgstr ""
+"<strong>Datos del asegurado</strong>\n"
+"                                            <br/>\n"
+"                                            Asegurado:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Insured Vehicle Details</strong>"
+msgstr "<strong>Datos del vehículo asegurado</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Monthly Installment</strong>"
+msgstr "<strong>Pagos mensuales</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "<strong>Nominee Details</strong>"
+msgstr "<strong>Datos del beneficiario</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<strong>Nominee Details</strong>\n"
+"                                            <br/>\n"
+"                                            Nominee:"
+msgstr ""
+"<strong>Datos del beneficiario</strong>\n"
+"                                            <br/>\n"
+"                                            Beneficiario:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Own Damage Premium</strong>"
+msgstr "<strong>Prima por daños</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "<strong>Payment Details</strong>"
+msgstr "<strong>Datos de pago</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"<strong>Payment Details</strong>\n"
+"                                            <br/>\n"
+"                                            Premium Type:"
+msgstr ""
+"<strong>Datos de pago</strong>\n"
+"                                            <br/>\n"
+"                                            Tipo de pago:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "<strong>Policy Details</strong>"
+msgstr "<strong>Datos de la póliza</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<strong>Policy Provider</strong>"
+msgstr "<strong>Proveedor de la póliza</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "<strong>Reason For Claim Application</strong>"
+msgstr "<strong>Motivo de la solicitud</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Schedule of Premiums</strong>"
+msgstr "<strong>Lista de primas</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "<strong>Terms &amp; Conditions</strong>"
+msgstr "<strong>Términos &amp; condiciones</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Third Party Liability Premium</strong>"
+msgstr "<strong>Prima de responsabilidad civil</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Vehicle Insurance Policy Details</strong>"
+msgstr "<strong>Datos de la póliza de seguro del vehículo</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Vehicle Insurance Report</strong>"
+msgstr "<strong>Informe seguro vehículo</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "<strong>Vehicle Insured Declared Values</strong>"
+msgstr "<strong>Valores declarados asegurados del vehículo</strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "<strong>  Years  </strong>"
+msgstr "<strong> Años </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "<strong>   Age  </strong>"
+msgstr "<strong> Edad </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "<strong>   Claim Amount  </strong>"
+msgstr "<strong> Importe de la reclamación </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "<strong>   Expiry Date  </strong>"
+msgstr "<strong> Fecha de caducidad </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "<strong>   Policy Amount  </strong>"
+msgstr "<strong> Importe de la póliza </strong>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "<strong>   Total Commission  </strong>"
+msgstr "<strong> Comisión Total </strong>"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__health_insured_age__above_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__life_insured_age__above_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__health_insured_age__above_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__life_insured_age__above_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__health_insured_age__above_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__life_insured_age__above_seventy
+msgid "Above 70 Years"
+msgstr "Mayor de 70 años"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__pet_desired_coverage_type__accident
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__pet_desired_coverage_type__accident
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__pet_desired_coverage_type__accident
+msgid "Accident"
+msgstr "Accidente"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__accident_coverage
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__accident_coverage
+msgid "Accident Amount"
+msgstr "Importe del accidente"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__accident_coverage
+msgid "Accident Coverage Amount"
+msgstr "Importe de la cobertura delaccidente"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__desired_coverage_types__additional_living_expenses
+msgid "Additional Living Expenses"
+msgstr "Gastos de manutención adicionales"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__age
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__age
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Age"
+msgstr "Edad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__age_of_breed_of_the_pet
+msgid "Age of Breed"
+msgstr "Edad del pariente"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Age:"
+msgstr "Edad:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__agent_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__agent_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_partner__is_agent
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_users__is_agent
+msgid "Agent"
+msgstr "Agente"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Agent Commission Details"
+msgstr "Datos comisión del agente"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Agent Details"
+msgstr "Datos agente"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Agent:"
+msgstr "Agente:"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.actions.act_window,name:tk_insurance_management.action_res_partner_agent
+#: model:ir.ui.menu,name:tk_insurance_management.menu_res_partner_agent
+#, python-format
+msgid "Agents"
+msgstr "Agentes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__policy_amount
+msgid "Amount"
+msgstr "Importe"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__amount_paid
+msgid "Amount Paid"
+msgstr "Importe pagado"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "Amount Paid:"
+msgstr "Importe pagado:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_search_view
+msgid "Applicant Name"
+msgstr "Nombre del solicitante"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__claim_information__state__approved
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#, python-format
+msgid "Approved"
+msgstr "Aprobado"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#, python-format
+msgid "Approved Claims"
+msgstr "Reclamaciones aprobadas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_nominee__your_nominee_is_your__aunt
+msgid "Aunt"
+msgstr "Tía"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__type_of_liability_risk__auto
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__type_of_liability_risk__auto
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__type_of_liability_risk__auto
+msgid "Auto"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__basic_od
+msgid "Basic OD"
+msgstr "OD Basico"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Basic OD:"
+msgstr "OD Basico:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__basic_tp_liability
+msgid "Basic TP Liability"
+msgstr "Responsabilidad básica TP"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Basic TP Liability:"
+msgstr "Responsabilidad básica TP:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__health_insured_age__twenty_to_fifty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__life_insured_age__twenty_to_fifty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__health_insured_age__twenty_to_fifty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__life_insured_age__twenty_to_fifty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__health_insured_age__twenty_to_fifty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__life_insured_age__twenty_to_fifty
+msgid "Between 20 to 50 Years"
+msgstr "Entre 20 y 50 años"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__health_insured_age__five_to_twenty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__life_insured_age__five_to_twenty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__health_insured_age__five_to_twenty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__life_insured_age__five_to_twenty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__health_insured_age__five_to_twenty
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__life_insured_age__five_to_twenty
+msgid "Between 5 to 20 Years"
+msgstr "Entre 5 y 20 años"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__health_insured_age__fifty_to_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__life_insured_age__fifty_to_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__health_insured_age__fifty_to_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__life_insured_age__fifty_to_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__health_insured_age__fifty_to_seventy
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__life_insured_age__fifty_to_seventy
+msgid "Between 50 to 70 Years"
+msgstr "Entre 50 y 70 años"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__type_of_liability_risk__business
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__type_of_liability_risk__business
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__type_of_liability_risk__business
+msgid "Business"
+msgstr "Negocios"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__business_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__business_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__business_coverage_limits
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Business Coverage Limits"
+msgstr "Límites de la cobertura empresarial"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__business
+msgid "Business Insurance"
+msgstr "Seguro de empresa"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Business Insurance Policy Details"
+msgstr "Datos de la póliza de seguro de empresa"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__business_type_and_operations
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__business_type_operation
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__business_type_and_operations
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__business_type_operation
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__business_type_and_operations
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__business_type_operation
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Business Type and Operations"
+msgstr "Tipo de negocio y operaciones"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Business Type and Operations (for Business Liability Insurance)"
+msgstr ""
+"Tipo de empresa y actividades (para el seguro de responsabilidad civil de "
+"empresas)"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__buying_for
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_buying_for_id
+msgid "Buying For"
+msgstr "Compra para"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Buying For:"
+msgstr "Compra para:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_form_view
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: tk_insurance_management
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_category
+msgid "Categories"
+msgstr "Categorias"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__category
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__category
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__category
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__insurance_category_id
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_buying_for_search_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_search_view
+msgid "Category"
+msgstr "Categorias"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+msgid "Category Code"
+msgstr "Código categoría"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Category:"
+msgstr "Categorial:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__exclusions__certain_breeds
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__exclusions__certain_breeds
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__exclusions__certain_breeds
+msgid "Certain Breeds"
+msgstr "Algunos parientes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__city
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__city
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "City"
+msgstr "Ciudad"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.claim_information_action
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__claim_number
+msgid "Claim"
+msgstr "Reclamación"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__amount_residual
+msgid "Claim Amount"
+msgstr "Importe de la reclamación"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__invoice_id
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Claim Bill"
+msgstr "Factura reclamación"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "Claim Bill:"
+msgstr "Factura reclamación:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__claim_count
+msgid "Claim Count"
+msgstr "Recuento de reclamaciones"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_form_view
+msgid "Claim Date"
+msgstr "Fecha de reclamación"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "Claim Date:"
+msgstr "Fecha de reclamación:"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Claim Details"
+msgstr "Detalles de la solicitud"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_documents_view_form
+msgid "Claim Document"
+msgstr "Documento de reclamación"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_claim_document_type
+#: model:ir.model,name:tk_insurance_management.model_claim_document_type
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_documents_search_view
+msgid "Claim Document Type"
+msgstr "Tipo de documento de reclamación"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_claim_documents
+#: model:ir.model,name:tk_insurance_management.model_claim_documents
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__claim_documents_ids
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Claim Documents"
+msgstr "Documentos de reclamación"
+
+#. module: tk_insurance_management
+#: model:ir.model,name:tk_insurance_management.model_claim_information
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__claim_information_id
+msgid "Claim Information"
+msgstr "Información reclamacion"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "Claim Number:"
+msgstr "Número de reclamación:"
+
+#. module: tk_insurance_management
+#: model:ir.actions.report,name:tk_insurance_management.action_insurance_claim_report
+msgid "Claim Report"
+msgstr "Informe reclamación"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Claim Settlement Amount"
+msgstr "Importe de la reclamación"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__state
+#, python-format
+msgid "Claim Status"
+msgstr "Estado de la reclamación"
+
+#. module: tk_insurance_management
+#: model:ir.ui.menu,name:tk_insurance_management.menu_claim_information
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Claims"
+msgstr "Reclamaciones"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__copay_amount
+msgid "Co-pay Amount"
+msgstr "Importe Co-pago"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__liife_co_payment
+msgid "Co-payment"
+msgstr "Co-pago:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__category_code
+msgid "Code"
+msgstr "Codigo"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__coverage_type__collision
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__coverage_type__collision
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__coverage_type__collision
+msgid "Collision"
+msgstr "Colisión"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__usage_of_vehicle__commercial
+msgid "Commercial"
+msgstr "Comercial"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__commission
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Commission (%)"
+msgstr "Comisión (%)"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Commission (%):"
+msgstr "Comisión (%):"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__commission_type
+msgid "Commission Type"
+msgstr "Tipo de Comisión"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__company_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__company_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__company_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__company_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__company_id
+msgid "Company"
+msgstr "Compañia"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "Company:"
+msgstr "Compañía:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__coverage_type__comprehensive
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__pet_desired_coverage_type__comprehensive
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__coverage_type__comprehensive
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__pet_desired_coverage_type__comprehensive
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__coverage_type__comprehensive
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__pet_desired_coverage_type__comprehensive
+msgid "Comprehensive"
+msgstr "Comprensivo"
+
+#. module: tk_insurance_management
+#: model:ir.ui.menu,name:tk_insurance_management.menu_configuration
+msgid "Configurations"
+msgstr "Configuraciones"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__construct_year
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__construct_year
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__construct_year
+msgid "Construct Year"
+msgstr "Año de construcción"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__construction_type_and_materials
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__construction_type_and_materials
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__construction_type_and_materials
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Construction Type and Materials"
+msgstr "Tipo y materiales de construcción"
+
+#. module: tk_insurance_management
+#: model:ir.model,name:tk_insurance_management.model_res_partner
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__country_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__country_id
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Country"
+msgstr "Pais"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__trip_coverage_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__trip_coverage_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__trip_coverage_amount
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Coverage Amount"
+msgstr "Importe de la cobertura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__pet_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__pet_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__pet_coverage_limits
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Coverage Limits"
+msgstr "Límite de cobertura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__business_desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__liability_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__pet_desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__business_desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__desired_coverage_types
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__liability_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__pet_desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__business_desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__desired_coverage_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__liability_coverage_type
+msgid "Coverage Type"
+msgstr "Tipo de cobertura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__pet_desired_coverage_type
+msgid "Coverage Type "
+msgstr "Tipo de cobertura "
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Coverage Type:"
+msgstr "Tipo de cobertura:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Create Claim"
+msgstr "Crear reclamación"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_dashboard__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__create_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_dashboard__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__create_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__create_date
+msgid "Created on"
+msgstr "Creado el"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__cubic_capacity
+msgid "Cubic Capacity"
+msgstr "Capacidad cúbica"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Cubic Capacity:"
+msgstr "Capacidad cúbica:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__currency_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__currency_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__currency_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__currency_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__currency_id
+msgid "Currency"
+msgstr "Modena"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_partner__is_customer
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_users__is_customer
+msgid "Customer"
+msgstr "Cliente"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.actions.act_window,name:tk_insurance_management.action_res_partner_customer
+#: model:ir.ui.menu,name:tk_insurance_management.menu_res_partner_customers
+#, python-format
+msgid "Customers"
+msgstr "Clientes"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Customers Gender"
+msgstr "Género de los clientes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__property_damage_coverage
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__property_damage_coverage
+msgid "Damage Coverage"
+msgstr "Cobertura de daños"
+
+#. module: tk_insurance_management
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_management
+msgid "Dashboard"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__claim_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__claim_date
+msgid "Date"
+msgstr "Fecha"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__dob
+msgid "Date Of Birth"
+msgstr "Fecha de nacimiento"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__dob
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__nominee_dob
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__nominee_dob
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Date of Birth:"
+msgstr "Fecha de nacimiento:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__furnish_date_of_death
+msgid "Date of Death"
+msgstr "Fecha de defunción"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_nominee__your_nominee_is_your__daughter
+msgid "Daughter"
+msgstr "Hija"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__desired_death_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__desired_death_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__desired_death_amount
+msgid "Death Amount"
+msgstr "Importe de la defunción"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__death_of_the_insured
+msgid "Death of the Insured"
+msgstr "Fallecimiento del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__disability_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__health_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__life_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__business_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__health_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__life_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__pet_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__property_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__disability_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__health_deductible_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__life_deductible_amount
+msgid "Deductible Amount"
+msgstr "Importe deducible"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__deductibles_under_section
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Deductibles Under Section"
+msgstr "Deducibles según la sección"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__deductibles_under_section
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__deductibles_under_section
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Deductibles under Section"
+msgstr "Deducibles según la sección"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__disability_desired_benefit_amount
+msgid "Desired Amount"
+msgstr "Importe deseado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__desired_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__desired_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__desired_coverage_limits
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Desired Coverage Limits"
+msgstr "Límites de cobertura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__disability
+msgid "Disability Insurance"
+msgstr "Seguro de invalidez"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Disability Insurance Policy Details"
+msgstr "Datos seguro de invalidez"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__discounted_value_in_policy
+msgid "Discounted Value in Policy"
+msgstr "Valor descontado de la póliza"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_dashboard__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__display_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__display_name
+msgid "Display Name"
+msgstr "Nombre"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__avatar
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insured_document_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__avatar
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__avatar
+msgid "Document"
+msgstr "Documento"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__document_count
+msgid "Document Count"
+msgstr "Conteo de documentos"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insured_documents_search_view
+msgid "Document Name"
+msgstr "Nombre del documento"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type__claim_document_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__claim_document_type_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type__insured_document_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__insured_document_type_id
+msgid "Document Type"
+msgstr "Tipo de documento"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Documents"
+msgstr "Documentos"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_form_view
+msgid "Done"
+msgstr "Hecho"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__claim_information__state__draft
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__state__draft
+msgid "Draft"
+msgstr "Borrador"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Driving History"
+msgstr "Antecedentes de conducción"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__driving_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__driving_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__driving_history
+msgid "Driving History of the Insured"
+msgstr "Antecedentes de conducción del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__duration
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__duration
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__duration
+msgid "Duration (Months)"
+msgstr "Duración (meses)"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__desired_coverage_types__dwelling
+msgid "Dwelling"
+msgstr "Residencia"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_emi
+msgid "EMI"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__electric_accessories
+msgid "Electric Accessories"
+msgstr "Accesorios eléctricos"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Electric Accessories:"
+msgstr "Accesorios eléctricos:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Email:"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__business_property_value
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__property_value
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__property_value
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__business_property_value
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__property_value
+msgid "Estimated Value"
+msgstr "Valor estimado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__exclusions
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__exclusions
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__exclusions
+msgid "Exclusions"
+msgstr "Exclusiones"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__state__expired
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+#, python-format
+msgid "Expired"
+msgstr "Caducado"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#, python-format
+msgid "Expired Insurances"
+msgstr "Seguros caducados"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__expiry_date
+msgid "Expiry Date"
+msgstr "<strong> Fecha de caducidad <strong>"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__desired_coverage_type__family
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__desired_coverage_type__family
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__desired_coverage_type__family
+msgid "Family"
+msgstr "Familia"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__family_medical_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__family_medical_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__family_medical_history
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Family Medical History"
+msgstr "Historial medico familiar"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Family Medical History of Insured"
+msgstr "Historial médico familiar del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__gender__female
+msgid "Female"
+msgstr "Femenino"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__final_premium
+msgid "Final Premium"
+msgstr "Prima final"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Final Premium:"
+msgstr "Prima final:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__premium_type__fixed
+msgid "Fixed"
+msgstr "Fija"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__commission_type__fixed
+msgid "Fixed Commission"
+msgstr "Comisión fija"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Fixed Invoice"
+msgstr "Facturación fija"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__for_trailer
+msgid "For Trailer"
+msgstr "Para remolque"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "For Trailer:"
+msgstr "Para remolque:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__for_the_vehicle
+msgid "For the Vehicle"
+msgstr "Para el vehículo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "For the Vehicle:"
+msgstr "Para el vehículo:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__gender
+msgid "Gender"
+msgstr "Género"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Gender:"
+msgstr "Género:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__liability_coverage_type__general_liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__liability_coverage_type__general_liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__liability_coverage_type__general_liability
+msgid "General Liability"
+msgstr "Responsabilidad general"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_nominee__your_nominee_is_your__grand_daughter
+msgid "Grand Daughter"
+msgstr "Nieta/o"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_nominee__your_nominee_is_your__grand_mother
+msgid "Grand Mother"
+msgstr "Abuela/o"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__desired_coverage_type__group
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__desired_coverage_type__group
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__desired_coverage_type__group
+msgid "Group"
+msgstr "Grupo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_documents_search_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_buying_for_search_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_search_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_search_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_sub_category_search_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_time_period_search_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insured_documents_search_view
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__disability_health_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__health_history_of_insured
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__disability_health_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__health_history_of_insured
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__disability_health_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__health_history_of_insured
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Health History"
+msgstr "Historial médico"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Health History of Insured"
+msgstr "Historial médico del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__health
+msgid "Health Insurance"
+msgstr "Seguro médico"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Health Insurance Policy Details"
+msgstr "Datos de la póliza médica"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__type_of_liability_risk__homeowner
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__type_of_liability_risk__homeowner
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__type_of_liability_risk__homeowner
+msgid "HomeOwner's"
+msgstr "Propietarios"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_dashboard__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__id
+msgid "ID"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "If Death Claim, Furnish Date of Death"
+msgstr "Si la solicitud es por defunción, indique la fecha de defunción"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "If Death Claim, Furnish Date of Death:"
+msgstr "Si la solicitud es por defunción, indique la fecha de defunción:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__pet_desired_coverage_type__illness
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__pet_desired_coverage_type__illness
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__pet_desired_coverage_type__illness
+msgid "Illness"
+msgstr "Enfermedades"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__illness_coverage
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__illness_coverage
+msgid "Illness Amount"
+msgstr "Enfermedad Importe"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__illness_coverage
+msgid "Illness Coverage Amount"
+msgstr "Enfermedad Importe de cobertura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__avatar
+msgid "Image"
+msgstr "Imagen"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__vehicle_insurance_image_ids
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__vehicle_insurance_image_ids
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__vehicle_insurance_image_ids
+msgid "Images"
+msgstr "Imágenes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__income
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__income
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__income
+msgid "Income"
+msgstr "Ingreso"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__desired_coverage_type__individual
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__desired_coverage_type__individual
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__desired_coverage_type__individual
+msgid "Individual"
+msgstr "Individual"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid ""
+"Industry Specific Risks(Such as Malpractice Insurance for Healthcare "
+"Providers)"
+msgstr ""
+"Riesgos específicos del sector (como el seguro de malas prácticas para "
+"profesionales de la salud)"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__premium_type__installment
+msgid "Installment"
+msgstr "Plazo"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__installment_amount
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Installment Amount"
+msgstr "Importe de la cuota"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__installment_date
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Installment Date"
+msgstr "Fecha del plazo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Installment Invoice"
+msgstr "Factura a plazos"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__instalment_complete
+msgid "Instalment Complete"
+msgstr "Plazo Completo"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.insurance_information_action
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__insurance_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__insurance_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_number
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_partner__insurance_information_ids
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_users__insurance_information_ids
+#: model:ir.ui.menu,name:tk_insurance_management.main_menu_insurance_management
+msgid "Insurance"
+msgstr "Seguro"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid ""
+"Insurance\n"
+"                                    Number:"
+msgstr ""
+"Seguro\n"
+"                                    Numero:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid ""
+"Insurance\n"
+"                                    Policy Date:"
+msgstr ""
+"Seguro\n"
+"                                    Fecha de la póliza:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid ""
+"Insurance\n"
+"                                    Policy:"
+msgstr ""
+"Seguro\n"
+"                                    Póliza:"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_buying_for
+#: model:ir.model,name:tk_insurance_management.model_insurance_buying_for
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_buying_for
+msgid "Insurance Buying For"
+msgstr "Compra para"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Insurance Categories"
+msgstr "Categorías de seguro"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#: model:ir.model,name:tk_insurance_management.model_insurance_category
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__insurance_category_id
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_buying_for_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#, python-format
+msgid "Insurance Category"
+msgstr "Categoría de seguro"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_claim
+#: model:ir.model,name:tk_insurance_management.model_insurance_claim
+msgid "Insurance Claim"
+msgstr "Reclamación de seguro"
+
+#. module: tk_insurance_management
+#: model:ir.model,name:tk_insurance_management.model_insurance_dashboard
+msgid "Insurance Dashboard"
+msgstr "Dashboard Seguros"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+#, python-format
+msgid "Insurance Details"
+msgstr "Datos del seguro"
+
+#. module: tk_insurance_management
+#: model:ir.model,name:tk_insurance_management.model_insurance_emi
+msgid "Insurance EMI"
+msgstr "Seguro IME"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_emi_ids
+msgid "Insurance Emi"
+msgstr "Seguro IME"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Insurance Graph"
+msgstr "Gráfico del seguro"
+
+#. module: tk_insurance_management
+#: model:ir.model,name:tk_insurance_management.model_insurance_information
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__insurance_information_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__insurance_information_id
+msgid "Insurance Information"
+msgstr "Información sobre el seguro"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_calendar_view
+msgid "Insurance Information Calendar"
+msgstr "Calendario de información sobre el seguro"
+
+#. module: tk_insurance_management
+#: model:product.product,name:tk_insurance_management.insurance_invoice
+#: model:product.template,name:tk_insurance_management.insurance_invoice_product_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_emi_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Insurance Invoice"
+msgstr "Factura del seguro"
+
+#. module: tk_insurance_management
+#: model:ir.model,name:tk_insurance_management.model_insurance_nominee
+msgid "Insurance Nominee"
+msgstr "Beneficiario Seguro"
+
+#. module: tk_insurance_management
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_nominee
+msgid "Insurance Nominees"
+msgstr "Beneficiarios Seguro"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_policy
+#: model:ir.model,name:tk_insurance_management.model_insurance_policy
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__insurance_policy_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_policy_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__insurance_policy_id
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_policy
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Insurance Policy"
+msgstr "Póliza de seguro"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Insurance Policy Number"
+msgstr "Número de póliza"
+
+#. module: tk_insurance_management
+#: model:ir.actions.report,name:tk_insurance_management.action_insurance_report
+msgid "Insurance Report"
+msgstr "Informe seguro"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Insurance Status"
+msgstr "Estado del seguro"
+
+#. module: tk_insurance_management
+#: model:ir.model,name:tk_insurance_management.model_insurance_sub_category
+msgid "Insurance Sub Category"
+msgstr "Subcategoría de seguro"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_time_period
+#: model:ir.model,name:tk_insurance_management.model_insurance_time_period
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_time_period
+msgid "Insurance Time Period"
+msgstr "Periodo de seguro"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_sub_category_search_view
+msgid "Insurance category"
+msgstr "Categoría de seguro"
+
+#. module: tk_insurance_management
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_information
+msgid "Insurances"
+msgstr "Seguros"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__insured_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__insured_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insured_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__insured_id
+msgid "Insured"
+msgstr "Asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__health_insured_age
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__life_insured_age
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__health_insured_age
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__life_insured_age
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__health_insured_age
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__life_insured_age
+msgid "Insured Age"
+msgstr "Edad asegurado"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Insured Details"
+msgstr "Datos del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insured_document_type
+#: model:ir.model,name:tk_insurance_management.model_insured_document_type
+msgid "Insured Document Type"
+msgstr "Tipo de documento asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insured_documents
+#: model:ir.model,name:tk_insurance_management.model_insured_documents
+msgid "Insured Documents"
+msgstr "Documentos del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__life_health_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__life_health_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__life_health_history
+msgid "Insured Health History"
+msgstr "Historial médico del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__insured_info_id
+msgid "Insured No"
+msgstr "Nº asegurado"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Insured Vehicle Details"
+msgstr "Datos del vehículo asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insured_is_smoking
+msgid "Insured is Smoking"
+msgstr "El asegurado es fumador"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Insured:"
+msgstr "Asegurado:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Insurer Details"
+msgstr "Datos del asegurador"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__invoice_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__invoice_id
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_emi_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Invoice"
+msgstr "Factura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__payment_state
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__payment_state
+msgid "Invoice Status"
+msgstr "Estado de la factura"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Invoice:"
+msgstr "Factura:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__issue_date
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Issue Date"
+msgstr "Fecha de emisión"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_image_kanban_view
+msgid "Kanban"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__odometer_unit__km
+msgid "Kilometers"
+msgstr "Kilómetros"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_dashboard____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents____last_update
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_dashboard__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__write_uid
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_document_type__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_claim__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_dashboard__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_document_type__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__write_date
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__write_date
+msgid "Last Updated on"
+msgstr "Última actualización el"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__length_coverage_disability_period
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__length_coverage_disability_period
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__length_coverage_disability_period
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Length of Coverage Period"
+msgstr "Duración del periodo de cobertura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__length_of_coverage_term
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__length_of_coverage_term
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__length_of_coverage_term
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Length of Coverage Terms"
+msgstr "Duración de los terminos de la cobertura"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__business_desired_coverage_type__liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__coverage_type__liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__business_desired_coverage_type__liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__coverage_type__liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__desired_coverage_types__liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__business_desired_coverage_type__liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__coverage_type__liability
+msgid "Liability"
+msgstr "Responsabilidad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__liability
+msgid "Liability Insurance"
+msgstr "Seguro de responsabilidad"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Liability Insurance Policy Details"
+msgstr "Datos del seguro de responsabilidad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__type_of_liability_risk
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__type_of_liability_risk
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__type_of_liability_risk
+msgid "Liability Risk"
+msgstr "Riesgo de responsabilidad"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Liability Service Tax:"
+msgstr "Responsabilidad impuesto sobre servicios:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__life
+msgid "Life Insurance"
+msgstr "Seguro de vida"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Life Insurance Policy Details"
+msgstr "Datos del seguro de vida"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__limitation_as_to_use
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Limitation as to Use"
+msgstr "Limitaciones de uso"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__limitation_as_to_use
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__limitation_as_to_use
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+msgid "Limitations as to Use"
+msgstr "Limitaciones de uso"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__limits_of_liability
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__limits_of_liability
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__limits_of_liability
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Limits of Liability"
+msgstr "Límites de responsabilidad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__types_of_coverage__lost_luggage
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__types_of_coverage__lost_luggage
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__types_of_coverage__lost_luggage
+msgid "Lost Luggage"
+msgstr "Equipaje perdido"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__gender__male
+msgid "Male"
+msgstr "Masculino"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__maturity_of_the_policy
+msgid "Maturity of the Policy"
+msgstr "Duración de la póliza"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__types_of_coverage__medical_emergency
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__types_of_coverage__medical_emergency
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__types_of_coverage__medical_emergency
+msgid "Medical Emergency"
+msgstr "Urgencias médicas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__odometer_unit__mi
+msgid "Miles"
+msgstr "Millas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__model
+msgid "Model"
+msgstr "Modelo"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__commission_type__monthly
+msgid "Monthly Commission"
+msgstr "Comisión mensual"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__monthly_installment
+msgid "Monthly Installment"
+msgstr "Plazo mensual"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Monthly Installment:"
+msgstr "Plazo mensual:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_nominee__your_nominee_is_your__mother
+msgid "Mother"
+msgstr "Madre"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__policy_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_sub_category__name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_vehicle_insurance_image__name
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Name"
+msgstr "Nombre"
+
+#. module: tk_insurance_management
+#: code:addons/tk_insurance_management/models/claim.py:0
+#: code:addons/tk_insurance_management/models/insurance.py:0
+#, python-format
+msgid "New"
+msgstr "Nuevo"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_nominee__your_nominee_is_your__niece
+msgid "Niece"
+msgstr "Sobrina/o"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__is_smoking_status__no
+msgid "No"
+msgstr "Nº"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__number_of_employees
+msgid "No. of Employees"
+msgstr "Nº de empleados"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_nominee
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__insurance_nominee_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_nominee_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__nominee_name
+msgid "Nominee"
+msgstr "Beneficiario"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Nominee Details"
+msgstr "Datos del beneficiario"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Nominee:"
+msgstr "Beneficiario:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__non_electric_accessories
+msgid "Non Electric Accessories"
+msgstr "Accesorios no eléctricos"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Non-Electric Accessories:"
+msgstr "Accesorios no eléctricos:"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__claim_information__state__not_approved
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#, python-format
+msgid "Not Approved"
+msgstr "No aprobado"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#, python-format
+msgid "Not Approved Claims"
+msgstr "Reclamaciones no aprobadas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__occupation
+msgid "Occupation"
+msgstr "Ocupación"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__occupation_and_hobbies
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__occupation_and_hobbies
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__occupation_and_hobbies
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Occupation and Hobbies"
+msgstr "Ocupación y aficiones"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Occupation and Hobbies of Insured"
+msgstr "Ocupación y aficiones del asegurado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__odometer_unit
+msgid "Odometer Unit"
+msgstr "Unidad Odometer"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__other
+msgid "Other"
+msgstr "Otro"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Other Stats"
+msgstr "Otras estadisticas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__gender__others
+msgid "Others"
+msgstr "Otros"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Out of Pocket Maximum"
+msgstr "Gastos máximos"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__out_of_pocket_maximum
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__out_of_pocket_maximum
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__out_of_pocket_maximum
+msgid "Out-of-Pocket Maximum"
+msgstr "Gastos máximos"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Own Damage Premium"
+msgstr "Prima por daños propios"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__pa_cover_for_owner_driver
+msgid "PA Cover for Owner-Driver"
+msgstr "Cobertura PA para el conductor propietario"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "PA Cover for Owner-Driver:"
+msgstr "Cobertura PA para el conductor propietario:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__od_package_premium
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__package_premium
+msgid "Package Premium"
+msgstr "Paquete premium"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Package Premium:"
+msgstr "Paquete premium:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__paid_up_of_lapsed_policy
+msgid "Paid up of Lapsed Policy"
+msgstr "Pago de la póliza caducada"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_emi_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Payment Details"
+msgstr "Datos de pago"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__payment_status
+msgid "Payment Status"
+msgstr "Estado de pago"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Period of Insurance"
+msgstr "Periodo del seguro"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__usage_of_vehicle__personal
+msgid "Personal"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__desired_coverage_types__personal_property
+msgid "Personal Property"
+msgstr "Bienes personales"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__personal_property_inventory
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__personal_property_inventory
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__personal_property_inventory
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Personal Property Inventory"
+msgstr "Inventario de bienes personales"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__pet
+msgid "Pet Insurance"
+msgstr "Seguro de mascotas"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Pet Insurance Policy Details"
+msgstr "Datos del seguro de mascotas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__phone
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__agent_phone
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__phone
+msgid "Phone"
+msgstr "Teléfono"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__place_of_reg
+msgid "Place of Registration"
+msgstr "Lugar de registro"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Place of Registration:"
+msgstr "Lugar de registro:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__policy_amount
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__policy_amount
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Policy Amount"
+msgstr "Importe de la póliza"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+msgid "Policy Amount:"
+msgstr "Importe de la póliza:"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_category
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__insurance_category_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_buying_for__insurance_category_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_category_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__insurance_category_id
+msgid "Policy Category"
+msgstr "Categoría de póliza"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Policy Details"
+msgstr "Datos de la póliza"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Policy Document"
+msgstr "Documento póliza"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__policy_number
+msgid "Policy Number"
+msgstr "Nº de póliza"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Policy Provider"
+msgstr "Proveedor de la póliza"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Policy Provider Details"
+msgstr "Datos del proveedor de la póliza"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_insurance_sub_category
+msgid "Policy Sub Category"
+msgstr "Subcategoría de póliza"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__insurance_time_period
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_time_period
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_time_period__t_period
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Policy Term"
+msgstr "Términos de la póliza"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Policy Term:"
+msgstr "Términos de la póliza:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__insurance_time_period_id
+msgid "Policy Terms"
+msgstr "Términos de la póliza"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__policy_certificate_no
+msgid "Policy/Certificate No"
+msgstr "Nº de póliza/certificado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__exclusions__pre_existing_conditions
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__exclusions__pre_existing_conditions
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__exclusions__pre_existing_conditions
+msgid "Pre-Existing Conditions"
+msgstr "Condiciones preexistentes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__healthcare_provider_network
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__healthcare_provider_network
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__healthcare_provider_network
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Preferred Healthcare Provider Network"
+msgstr "Red de proveedores de salud"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_emi__premium_type
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__premium_type
+msgid "Premium Type"
+msgstr "Tipo de prima"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "Premium Type:"
+msgstr "Tipo de prima:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__drug_coverage
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__drug_coverage
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__drug_coverage
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Prescription Drug Coverage"
+msgstr "Cobertura de medicamentos recetados"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__previous_policy_no
+msgid "Previous Policy No"
+msgstr "Póliza anterior Nº"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__liability_coverage_type__professional_liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__liability_coverage_type__professional_liability
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__liability_coverage_type__professional_liability
+msgid "Professional Liability"
+msgstr "Responsabilidad profesional"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__property_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__property_coverage_limits
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__property_coverage_limits
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Property Coverage Limits"
+msgstr "Límites de cobertura de los bienes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__business_desired_coverage_type__property_damage
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__business_desired_coverage_type__property_damage
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__business_desired_coverage_type__property_damage
+msgid "Property Damage"
+msgstr "Daños a la propiedad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__property_damage_coverage
+msgid "Property Damage Coverage"
+msgstr "Cobertura de los daños materiales"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Property Details"
+msgstr "Datos de la propiedad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__property
+msgid "Property Insurance"
+msgstr "Seguro de propiedad"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Property Insurance Policy Details"
+msgstr "Datos del seguro de propiedad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__business_property_value
+msgid "Property Value"
+msgstr "Valor de la propiedad"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Reason For Claim Application"
+msgstr "Motivo de la solicitud de reclamación"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+msgid "Reason for Filing the Claim Application"
+msgstr "Motivo de la presentación de la solicitud"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__reg_no
+msgid "Registration No"
+msgstr "Nº de registro"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Registration No:"
+msgstr "Nº de registro:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__claim_documents__state__rejected
+msgid "Rejected"
+msgstr "Rechazado"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__state__running
+#, python-format
+msgid "Running"
+msgstr "Coriente"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#, python-format
+msgid "Running Insurances"
+msgstr "Seguros corrientes"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Schedule of Premiums"
+msgstr "Calendario de primas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__service_tax
+msgid "Service Tax"
+msgstr "Impuesto de servicios"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Service Tax:"
+msgstr "Impuesto de servicios:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__setting_capacity
+msgid "Setting Capacity"
+msgstr "Ajuste capacidad"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Setting Capacity:"
+msgstr "Ajuste capacidad:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_nominee__your_nominee_is_your__sister
+msgid "Sister"
+msgstr "Hermana"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__is_smoking_status
+msgid "Smoking Status"
+msgstr "Estado de fumador"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__special_conditions
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__special_conditions
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__special_conditions
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Special Conditions"
+msgstr "Condiciones especiales"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__special_discount
+msgid "Special Discount (-)"
+msgstr "Descuento especial (-)"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Special Discount:"
+msgstr "Descuento especial"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__special_features_of_the_property
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__special_features_of_the_property
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__special_features_of_the_property
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Special Features of the Property"
+msgstr "Características especiales de la propiedad"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__state
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__state
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__state_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__state_id
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "State"
+msgstr "Estado"
+
+#. module: tk_insurance_management
+#: model:ir.actions.client,name:tk_insurance_management.action_insurance_dashboard
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__street
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__street
+msgid "Street"
+msgstr "Calle"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__street2
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__street2
+msgid "Street 2"
+msgstr "Calle 2"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Street 2..."
+msgstr "Calle 2..."
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Street..."
+msgstr "Calle..."
+
+#. module: tk_insurance_management
+#: model:ir.ui.menu,name:tk_insurance_management.menu_insurance_insurance_sub_category
+msgid "Sub Categories"
+msgstr "Subcategorías"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__insurance_sub_category_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__insurance_sub_category_id
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__insurance_sub_category_id
+msgid "Sub Category"
+msgstr "Subcategoría"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__claim_information__state__submit
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#, python-format
+msgid "Submit"
+msgstr "Enviar"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#, python-format
+msgid "Submit Claims"
+msgstr "Enviar reclamaciónes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__surrender_of_the_policy
+msgid "Surrender of the Policy"
+msgstr "Renuncia a la póliza"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__policy_terms_and_conditions
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__policy_terms_and_conditions
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__policy_terms_and_conditions
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.claim_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Terms & Conditions"
+msgstr "Términos & condiciones"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Third Party Liability Premium"
+msgstr "Prima de responsabilidad"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_emi_view_form
+msgid "Time Duration"
+msgstr "Duración"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_time_period_search_view
+msgid "Time Period"
+msgstr "Periodo de tiempo"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Top 5 Agents"
+msgstr "Los 5 mejores agentes"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/xml/template.xml:0
+#, python-format
+msgid "Total"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"Total\n"
+"                                            Commission:"
+msgstr ""
+"Total\n"
+"                                            Comisión:"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#, python-format
+msgid "Total Claims"
+msgstr "Total de solicitudes"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__total_commission
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_partner__agent_total_commission
+#: model:ir.model.fields,field_description:tk_insurance_management.field_res_users__agent_total_commission
+msgid "Total Commission"
+msgstr "Comisión total"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__total_idv
+msgid "Total IDV Value"
+msgstr "Valor total IDV"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Total IDV Value:"
+msgstr "Valor total IDV:"
+
+#. module: tk_insurance_management
+#. openerp-web
+#: code:addons/tk_insurance_management/static/src/js/insurance_dashboard.js:0
+#, python-format
+msgid "Total Insurances"
+msgstr "Total seguros"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__total_policy_amount
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Total Policy Amount"
+msgstr "Importe total de la póliza"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Total Policy Amount:"
+msgstr "Importe total de la póliza:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__total_premium
+msgid "Total Premium"
+msgstr "Prima total"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Total Premium:"
+msgstr "Prima total:"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Travel Details"
+msgstr "Datos del viaje"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__travel
+msgid "Travel Insurance"
+msgstr "Seguro de viaje"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Travel Insurance Policy Details"
+msgstr "Datos del seguro de viaje"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__traveler_health_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__traveler_health_history
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__traveler_health_history
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Traveler Health History"
+msgstr "Historial médico del viajero"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__types_of_coverage__trip_cancellation
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__types_of_coverage__trip_cancellation
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__types_of_coverage__trip_cancellation
+msgid "Trip Cancellation"
+msgstr "Cancelación del viaje"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__trip_length
+msgid "Trip Length"
+msgstr "Duración del viaje"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_category__types_of_coverage
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__types_of_coverage
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__types_of_coverage
+msgid "Type of Coverage"
+msgstr "Tipo de cobertura"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Types of Payments"
+msgstr "Tipos de pagos"
+
+#. module: tk_insurance_management
+#: model:product.product,uom_name:tk_insurance_management.insurance_invoice
+#: model:product.template,uom_name:tk_insurance_management.insurance_invoice_product_template
+msgid "Units"
+msgstr "Unidades"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__usage_of_vehicle
+msgid "Usage of Vehicle"
+msgstr "Uso del vehículo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Usage of Vehicle:"
+msgstr "Uso del vehículo:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__vin_no
+msgid "VIN No"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "VIN No:"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__value_of_cng_lpg_kit
+msgid "Value of CNG/LPG Kit"
+msgstr "Valor del kit GNC/GPL"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Value of CNG/LPG Kit:"
+msgstr "Valor del kit GNC/GPL:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__vehicle_name
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_image_kanban_view
+msgid "Vehicle"
+msgstr "Vehículo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "Vehicle Details"
+msgstr "Datos del vehículo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_image_form_view
+msgid "Vehicle Image"
+msgstr "Imagen del vehículo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Vehicle Images"
+msgstr "Imagenes del vehículo"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__category__vehicle
+msgid "Vehicle Insurance"
+msgstr "Seguro del vehículo"
+
+#. module: tk_insurance_management
+#: model:ir.actions.act_window,name:tk_insurance_management.action_vehicle_insurance_image
+#: model:ir.model,name:tk_insurance_management.model_vehicle_insurance_image
+msgid "Vehicle Insurance Image"
+msgstr "Imagen del seguro del vehículo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Vehicle Insurance Policy Details"
+msgstr "Datos del seguro del vehículo"
+
+#. module: tk_insurance_management
+#: model:ir.actions.report,name:tk_insurance_management.action_vehicle_insurance_report
+msgid "Vehicle Insurance Report"
+msgstr "Informe seguro del vehículo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "Vehicle Insured Declared Values"
+msgstr "Valores declarados del vehículo asegurado"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Vehicle:"
+msgstr "Vehículo:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__claim_documents__state__verified
+msgid "Verified"
+msgstr "Verificado"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_category__business_desired_coverage_type__workers
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__business_desired_coverage_type__workers
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_policy__business_desired_coverage_type__workers
+msgid "Workers Compensation"
+msgstr "Indemnización de los trabajadores"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__year
+msgid "Year of MFG"
+msgstr "Año MFG"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid "Year of MFG:"
+msgstr "Año MFG:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields.selection,name:tk_insurance_management.selection__insurance_information__is_smoking_status__yes
+msgid "Yes"
+msgstr "Sí"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_claim_report_template
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid ""
+"Your Nominee is\n"
+"                                    Your:"
+msgstr ""
+"Su beneficiario es\n"
+"                                    Su:"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_information__your_nominee_is_your
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__your_nominee_is_your
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_nominee__your_nominee_is_your
+msgid "Your Nominee is Your"
+msgstr "Su beneficiario es su"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "ZIP"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_information__zip
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__zip
+msgid "Zip"
+msgstr ""
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_emi_view_form
+msgid "e.g. 1st Installment"
+msgstr "por ejemplo, 1er plazo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_category_form_view
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_image_form_view
+msgid "e.g. Name"
+msgstr "Por ejemplo, Nombre"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_buying_for_form_view
+msgid "e.g. Self"
+msgstr "Por ejemplo, Auto"
+
+#. module: tk_insurance_management
+#: model:ir.model.fields,field_description:tk_insurance_management.field_claim_documents__file_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insurance_policy__file_name
+#: model:ir.model.fields,field_description:tk_insurance_management.field_insured_documents__file_name
+msgid "filename"
+msgstr "nombre de archivo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_emi_view_tree
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_information_view_form
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.res_partner_form_view
+msgid "installment_amount"
+msgstr "importe_plazo"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_policy_view_form
+msgid "limitations as to Use"
+msgstr "limitaciones de uso"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.insurance_report_template
+msgid "to"
+msgstr "a"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"➤ Deductibles Under Section:\n"
+"                                        <br/>"
+msgstr ""
+"➤ Deducibles según la sección:\n"
+"                                        <br/>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"➤ Driving History:\n"
+"                                        <br/>"
+msgstr ""
+"➤ Historial de conducción:\n"
+"                                        <br/>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"➤ Limitation as to Use:\n"
+"                                        <br/>"
+msgstr ""
+"➤ Limitaciones de uso:\n"
+"                                        <br/>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"➤ Limits of Liability:\n"
+"                                        <br/>"
+msgstr ""
+"➤ Limites de responsabilidad:\n"
+"                                        <br/>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"➤ Special Conditions:\n"
+"                                        <br/>"
+msgstr ""
+"➤ Condiciones especiales:\n"
+"                                        <br/>"
+
+#. module: tk_insurance_management
+#: model_terms:ir.ui.view,arch_db:tk_insurance_management.vehicle_insurance_report_template
+msgid ""
+"➤ Terms &amp; Conditions:\n"
+"                                        <br/>"
+msgstr ""
+"➤ Terminos &amp; condiciones:\n"
+"                                        <br/>"
